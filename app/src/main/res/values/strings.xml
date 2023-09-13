@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubSubmissionUser</string>
+    <string name="hintSearch">galangwahyu</string>
+    <string name="titleSearch">Search</string>
+    <string name="penengah">|</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="hello_blank_fragment">blank fragment</string>
+    <string name="followers">FOLLOWER :</string>
+    <string name="following">FOLLOWING :</string>
+    <string name="divider">|</string>
+</resources>
